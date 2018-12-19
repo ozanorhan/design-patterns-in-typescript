@@ -1,0 +1,1 @@
+Implementation of [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) in TypeScript to learn patterns and get familier with TypeScript

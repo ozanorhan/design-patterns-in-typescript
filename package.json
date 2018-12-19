@@ -1,0 +1,23 @@
+{
+  "name": "design-patterns-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozanorhan/design-patterns-in-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozanorhan/design-patterns-in-typescript/issues"
+  },
+  "homepage": "https://github.com/ozanorhan/design-patterns-in-typescript#readme",
+  "devDependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  }
+}
